@@ -1,9 +1,9 @@
 # SePay-demo
 ## Topic : Tích hợp thanh toán tự động qua SePay
 
-**Định nghĩa** : Đây là dự án demo tích hợp cổng thanh toán tự động qua mã QR ngân hàng sử dụng dịch vụ của SePay. Hệ thống cho phép tự động xác nhận đơn hàng ngay khi khách hàng chuyển khoản thành công mà không cần can thiệp thủ công.
+Đây là dự án demo tích hợp cổng thanh toán tự động qua mã QR ngân hàng sử dụng dịch vụ của SePay. Hệ thống cho phép tự động xác nhận đơn hàng ngay khi khách hàng chuyển khoản thành công mà không cần can thiệp thủ công.
 
-* **Demo Video** : [Đường link youtube demo](#) *(Bạn chèn link vào đây nhé)*
+* **Demo Video** : https://youtu.be/NBvJPPONB-A
 
 ## Yêu cầu hệ thống 
 * **Web Server** : XAMPP, Laragon hoặc bất kỳ môi trường hỗ trợ PHP & MySQL.
