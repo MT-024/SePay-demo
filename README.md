@@ -29,6 +29,8 @@
 2. Nhập số tiền và nhấn **Đặt hàng**.
 3. Dùng App ngân hàng quét mã QR và thực hiện thanh toán (giữ nguyên nội dung `DHxxx` và đúng số tiền nếu chọn chuyển khoản thủ công).
 4. Đợi vài giây để màn hình tự động chuyển sang trạng thái **Thành công**.
+## Flow Hệ thống
+<img width="1366" height="768" alt="Screenshot (3941)" src="https://github.com/user-attachments/assets/f41bb17d-117b-4bcd-9fa6-4b24394e6c64" />
 
 ## Cấu trúc thư mục
 ```text
