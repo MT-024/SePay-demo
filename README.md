@@ -4,6 +4,8 @@
 Đây là dự án demo tích hợp cổng thanh toán tự động qua mã QR ngân hàng sử dụng dịch vụ của SePay. Hệ thống cho phép tự động xác nhận đơn hàng ngay khi khách hàng chuyển khoản thành công mà không cần can thiệp thủ công.
 
 * **Demo Video** : https://youtu.be/NBvJPPONB-A
+* 0:00 - 0:29: Giao diện sau khi tạo VA, tạo webhooks
+* 0:29 - end : Bắt đầu demo
 
 ## Yêu cầu hệ thống 
 * **Web Server** : XAMPP, Laragon hoặc bất kỳ môi trường hỗ trợ PHP & MySQL.
